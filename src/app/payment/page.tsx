@@ -69,7 +69,7 @@ export default function Page() {
               </div>
               <div className="city flex flex-col gap-3 w-full lg:w-[50%]">
                 <label className="font-bold" htmlFor="city">Date</label>
-                <select title="cty" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
+                <select title="ctiy" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
                   <option value="">Select Your Date</option>
                 </select>
               </div>
@@ -77,7 +77,7 @@ export default function Page() {
             <div className="third w-full">
               <div className="city flex flex-col gap-3 w-full lg:w-[45%]">
                 <label className="font-bold" htmlFor="city">Time</label>
-                <select title="cit" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
+                <select title="city" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
                   <option value="">Select Your Time</option>
                 </select>
               </div>
@@ -94,7 +94,7 @@ export default function Page() {
               </div>
               <div className="city flex flex-col gap-3 w-full lg:w-[50%]">
                 <label className="font-bold" htmlFor="city">Date</label>
-                <select title="cty" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
+                <select title="ctiy" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
                   <option value="">Select Your Date</option>
                 </select>
               </div>
@@ -102,7 +102,7 @@ export default function Page() {
             <div className="third w-full">
               <div className="city flex flex-col gap-3 w-full lg:w-[45%]">
                 <label className="font-bold" htmlFor="city">Time</label>
-                <select title="cit" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
+                <select title="city" className="bg-[#f6f7f9] px-8 h-[56px] rounded-xl">
                   <option value="">Select Your Time</option>
                 </select>
               </div>
